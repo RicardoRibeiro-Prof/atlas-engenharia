@@ -27,6 +27,8 @@ A pasta final é `dist/`.
 
 O workflow `.github/workflows/deploy-pages.yml` publica exclusivamente a pasta `dist` no GitHub Pages.
 
+O GitHub Pages já foi configurado para usar **GitHub Actions**. Este commit dispara a primeira publicação oficial do projeto.
+
 URL esperada:
 
 `https://ricardoribeiro-prof.github.io/atlas-engenharia/`
